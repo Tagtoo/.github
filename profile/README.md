@@ -39,7 +39,7 @@ Tagtoo (塔圖科技) 是一家位於**台灣台北**，專注於**行銷數據�
 
 ### 🌱 如何貢獻
 
-我們非常歡迎來自社群的貢獻！請先閱讀我們的 [**貢獻指南 (Contributing Guidelines)**](.github/CONTRIBUTING.md) 來開始。您也可以查看我們開放的 issues，尋找可以協助的地方。
+我們非常歡迎來自社群的貢獻！請先閱讀我們的 [**貢獻指南 (Contributing Guidelines)**](CONTRIBUTING.md) 來開始。您也可以查看我們開放的 issues，尋找可以協助的地方。
 
 ### 💼 加入我們
 
@@ -90,7 +90,7 @@ Check out some of our pinned projects below to see what we're working on!
 
 ### 🌱 How to Contribute
 
-We welcome contributions from the community! Please read our [**Contributing Guidelines**](.github/CONTRIBUTING.md) to get started. You can also check our open issues to find areas where you can help.
+We welcome contributions from the community! Please read our [**Contributing Guidelines**](CONTRIBUTING.md) to get started. You can also check our open issues to find areas where you can help.
 
 ### 💼 Join Our Team
 

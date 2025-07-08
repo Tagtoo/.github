@@ -43,7 +43,7 @@ Tagtoo (塔圖科技) 是一家位於**台灣台北**，專注於**行銷數據�
 
 ### 💼 加入我們
 
-我們一直在尋找優秀的工程師、資料科學家和產品經理加入我們在**台北**的團隊。如果您對於打造 MarTech 的未來充滿熱情，歡迎查看我們的[**最新職缺**](https://www.104.com.tw/company/bkknjkw#info06)。
+我們一直在尋找優秀的工程師、資料科學家和產品經理加入我們在**台北**的團隊。如果您對於打造 MadTech 的未來充滿熱情，歡迎查看我們的[**最新職缺**](https://www.104.com.tw/company/bkknjkw#info06)。
 
 
 ---
@@ -94,4 +94,4 @@ We welcome contributions from the community! Please read our [**Contributing Gui
 
 ### 💼 Join Our Team
 
-We are always looking for talented engineers, data scientists, and product managers to join our team in **Taipei**. If you are passionate about building the future of MarTech, check out our [**open positions**](https://www.104.com.tw/company/bkknjkw#info06).
+We are always looking for talented engineers, data scientists, and product managers to join our team in **Taipei**. If you are passionate about building the future of MadTech, check out our [**open positions**](https://www.104.com.tw/company/bkknjkw#info06).
